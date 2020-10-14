@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Contato>
+	<id>01</id>
+	<nome>Rodrigo</nome>
+	<email>rodrigo@email.com</email>
+	<Telefones>
+		<Telefone>
+			<id>1</id>
+			<ddd>21</ddd>
+			<numero>21212121</numero>
+		</Telefone>
+		<Telefone>
+			<id>2</id>
+			<ddd>21</ddd>
+			<numero>565656565</numero>
+		</Telefone>
+	</Telefones>
+	<Endereco>
+		<id>1</id>
+		<logradouro>Rua A</logradouro>
+		<bairro>Piedade</bairro>
+		<cep>78787878787</cep>
+		<cidade>Rio de Janeiro</cidade>
+		<complemento>bloco 2 - apto 100</complemento>
+		<numero>600</numero>
+	</Endereco>
+</Contato>
